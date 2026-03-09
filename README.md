@@ -16,7 +16,7 @@ Holidays are entered into the app from editable json files.
 
 Personal events entered are stored automatcally into a PersonalEvents.json file.
 
-The ppctk.py source file is for PC and Linus OS's.
+The ppctk.py source file is for PC and Linux OS's.
 
 The ppctkmac.py source file is for a Mac with a retina display in which the font sizes had to be made bigger.
 
@@ -24,7 +24,7 @@ The only 2 things you may need to add to your IDE to run this app is tkinter and
 Pillow is needed to help produce the screeshot sent to the printer.
 
 I used to make monthly calendars for my wife for the last 15 years or so using a spreadsheet program and it
-take me about 2 hours to produce a yearly calendar.  With this self-written app, it now takes only a few minutes.
+would take me about 2 hours to produce a yearly calendar.  With this self-written app, it now takes only a few minutes.
 It's not perfect but it works very well and it certainly gets the job done.
 
 
